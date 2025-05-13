@@ -16,7 +16,7 @@ Final/
 
 ## 🚀 Launch Instructions
 
-Make sure you have ROS (preferably Noetic or Melodic) installed and sourced.
+Make sure you have ROS (preferably Noetic) installed and sourced.
 
 ```bash
 cd Final
@@ -29,7 +29,7 @@ roslaunch launch/navigation.launch        # Start move_base navigation
 
 ## 🧰 Dependencies
 
-- ROS (Noetic/Melodic)
+- ROS (Noetic)
 - Gazebo (compatible with your ROS version)
 - `gmapping`, `amcl`, `move_base`, and other navigation stack packages
 
