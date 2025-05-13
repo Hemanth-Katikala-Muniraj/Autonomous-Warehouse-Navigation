@@ -1,0 +1,24 @@
+# ROS build files
+build/
+devel/
+install/
+
+# catkin tools logs
+.catkin_tools/
+
+# ROS logs
+log/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# DS_Store for macOS
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
